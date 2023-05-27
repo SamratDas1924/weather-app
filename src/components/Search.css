@@ -1,0 +1,15 @@
+.search-bar {
+    height: 30px;
+    width: 50%;
+    margin: 2rem 2rem 2rem 8rem;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 1rem;
+}
+
+.btn {
+    height: 40px;
+    width: 100px;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
